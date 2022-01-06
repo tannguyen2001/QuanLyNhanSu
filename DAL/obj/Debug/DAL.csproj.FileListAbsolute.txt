@@ -1,0 +1,27 @@
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\DAL\bin\Debug\DAL.dll
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\DAL\bin\Debug\DAL.pdb
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\DAL\bin\Debug\DTO.dll
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\DAL\bin\Debug\DTO.pdb
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\DAL\obj\Debug\DAL.dll
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\DAL\obj\Debug\DAL.pdb
+D:\QuanLyNhanSu\DAL\bin\Debug\DAL.dll
+D:\QuanLyNhanSu\DAL\bin\Debug\DAL.pdb
+D:\QuanLyNhanSu\DAL\bin\Debug\DTO.dll
+D:\QuanLyNhanSu\DAL\bin\Debug\DTO.pdb
+D:\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\QuanLyNhanSu\DAL\obj\Debug\DAL.dll
+D:\QuanLyNhanSu\DAL\obj\Debug\DAL.pdb
+E:\Bài tập lớn C#\QuanLyNhanSu\DAL\bin\Debug\DAL.dll
+E:\Bài tập lớn C#\QuanLyNhanSu\DAL\bin\Debug\DAL.pdb
+E:\Bài tập lớn C#\QuanLyNhanSu\DAL\bin\Debug\DTO.dll
+E:\Bài tập lớn C#\QuanLyNhanSu\DAL\bin\Debug\DTO.pdb
+E:\Bài tập lớn C#\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Bài tập lớn C#\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Bài tập lớn C#\QuanLyNhanSu\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Bài tập lớn C#\QuanLyNhanSu\DAL\obj\Debug\DAL.dll
+E:\Bài tập lớn C#\QuanLyNhanSu\DAL\obj\Debug\DAL.pdb

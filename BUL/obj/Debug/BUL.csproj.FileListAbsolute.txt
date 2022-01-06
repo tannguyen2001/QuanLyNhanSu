@@ -1,0 +1,33 @@
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\BUL\bin\Debug\BUL.dll
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\BUL\bin\Debug\BUL.pdb
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\BUL\bin\Debug\DAL.dll
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\BUL\bin\Debug\DTO.dll
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\BUL\bin\Debug\DAL.pdb
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\BUL\bin\Debug\DTO.pdb
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\BUL\obj\Debug\BUL.csproj.AssemblyReference.cache
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\BUL\obj\Debug\BUL.csproj.CoreCompileInputs.cache
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\BUL\obj\Debug\BUL.csproj.CopyComplete
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\BUL\obj\Debug\BUL.dll
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\BUL\obj\Debug\BUL.pdb
+D:\QuanLyNhanSu\BUL\bin\Debug\BUL.dll
+D:\QuanLyNhanSu\BUL\bin\Debug\BUL.pdb
+D:\QuanLyNhanSu\BUL\bin\Debug\DAL.dll
+D:\QuanLyNhanSu\BUL\bin\Debug\DTO.dll
+D:\QuanLyNhanSu\BUL\bin\Debug\DAL.pdb
+D:\QuanLyNhanSu\BUL\bin\Debug\DTO.pdb
+D:\QuanLyNhanSu\BUL\obj\Debug\BUL.csproj.AssemblyReference.cache
+D:\QuanLyNhanSu\BUL\obj\Debug\BUL.csproj.CoreCompileInputs.cache
+D:\QuanLyNhanSu\BUL\obj\Debug\BUL.csproj.CopyComplete
+D:\QuanLyNhanSu\BUL\obj\Debug\BUL.dll
+D:\QuanLyNhanSu\BUL\obj\Debug\BUL.pdb
+E:\Bài tập lớn C#\QuanLyNhanSu\BUL\bin\Debug\BUL.dll
+E:\Bài tập lớn C#\QuanLyNhanSu\BUL\bin\Debug\BUL.pdb
+E:\Bài tập lớn C#\QuanLyNhanSu\BUL\bin\Debug\DAL.dll
+E:\Bài tập lớn C#\QuanLyNhanSu\BUL\bin\Debug\DTO.dll
+E:\Bài tập lớn C#\QuanLyNhanSu\BUL\bin\Debug\DAL.pdb
+E:\Bài tập lớn C#\QuanLyNhanSu\BUL\bin\Debug\DTO.pdb
+E:\Bài tập lớn C#\QuanLyNhanSu\BUL\obj\Debug\BUL.csproj.AssemblyReference.cache
+E:\Bài tập lớn C#\QuanLyNhanSu\BUL\obj\Debug\BUL.csproj.CoreCompileInputs.cache
+E:\Bài tập lớn C#\QuanLyNhanSu\BUL\obj\Debug\BUL.csproj.CopyComplete
+E:\Bài tập lớn C#\QuanLyNhanSu\BUL\obj\Debug\BUL.dll
+E:\Bài tập lớn C#\QuanLyNhanSu\BUL\obj\Debug\BUL.pdb

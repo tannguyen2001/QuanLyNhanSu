@@ -1,0 +1,12 @@
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\DTO\bin\Debug\DTO.dll
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\DTO\bin\Debug\DTO.pdb
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\DTO\obj\Debug\DTO.dll
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\DTO\obj\Debug\DTO.pdb
+E:\Bài tập lớn C#\QuanLyNhanSu\DTO\bin\Debug\DTO.dll
+E:\Bài tập lớn C#\QuanLyNhanSu\DTO\bin\Debug\DTO.pdb
+E:\Bài tập lớn C#\QuanLyNhanSu\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Bài tập lớn C#\QuanLyNhanSu\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Bài tập lớn C#\QuanLyNhanSu\DTO\obj\Debug\DTO.dll
+E:\Bài tập lớn C#\QuanLyNhanSu\DTO\obj\Debug\DTO.pdb

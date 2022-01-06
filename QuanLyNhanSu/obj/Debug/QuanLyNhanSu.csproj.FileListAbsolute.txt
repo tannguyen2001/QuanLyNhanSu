@@ -1,0 +1,89 @@
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\MetroFramework.dll
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucHeThong.ucDangNhap.resources
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.templateNhanVien.resources
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.ucHoSoNhanVien.resources
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.ucThemXoaNhanVien.resources
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.ucBaoHiem.resources
+C:\Users\Hanhcntt3\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.ucNhanVienThoiViec.resources
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\BUL.dll
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.dll
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\BUL.pdb
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.pdb
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Main.resources
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucHeThong.ucDangNhap.resources
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.templateNhanVien.resources
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.ucHoSoNhanVien.resources
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAL.dll
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAL.pdb
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.BaoHiem.resources
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.ucTaiKhoanThuong.resources
+E:\BaiTapLon\QuanLyNhanSu-20211114T083358Z-001\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.ucTaiKhoanVip.resources
+D:\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+D:\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+D:\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+D:\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\BUL.dll
+D:\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.dll
+D:\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAL.dll
+D:\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\BUL.pdb
+D:\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.pdb
+D:\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAL.pdb
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Main.resources
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucHeThong.ucDangNhap.resources
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.BaoHiem.resources
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.templateNhanVien.resources
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.ucHoSoNhanVien.resources
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.ucTaiKhoanThuong.resources
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.ucTaiKhoanVip.resources
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+D:\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\BUL.dll
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.dll
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAL.dll
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\BUL.pdb
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DTO.pdb
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAL.pdb
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.ResolveComReference.cache
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Main.resources
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucHeThong.ucDangNhap.resources
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.BaoHiem.resources
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.templateNhanVien.resources
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.ucHoSoNhanVien.resources
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.ucTaiKhoanThuong.resources
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ucNhanVien.ucTaiKhoanVip.resources
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+E:\Bài tập lớn C#\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
